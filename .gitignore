@@ -1,4 +1,4 @@
-func.bin 
-func.c 
-run_func.sh 
+*.bin 
+*func.c 
+*.sh 
 *.swp
